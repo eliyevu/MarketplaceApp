@@ -42,11 +42,3 @@ npx expo start
 ### 5. Run on a device
 
 Scan the QR code using Expo Go.
-
-## Project Structure
-
-MarketplaceApp/
-├── components/
-├── data/
-├── navigation/
-└── screens/
